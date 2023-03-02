@@ -1,0 +1,33 @@
+body{
+    background-color:lightblue;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    background-size: 100% 100%;
+
+}
+   
+
+img{border-radius: 120px;
+
+}
+p{color: #000000;
+
+font-family: 'Times New Roman', Times, serif;
+text-align: left;
+}
+title{color: aquamarine;}
+h2{color: yellowgreen;
+    font-size: large;   
+    font-family: Arial, Helvetica, sans-serif;
+}
+link{text-align: center;}
+hr{
+text-align: end;
+border-radius: 20px;
+}
+a:link{ color: aquamarine
+    ;}
+a:visited{color: brown;}
+a:hover{color: blanchedalmond;}
+a:active{color: blue;}
